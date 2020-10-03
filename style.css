@@ -1,12 +1,24 @@
-*{
-padding: 0;
-margin: 0;
-font-size:12pt;
-font-family: Arial;
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
 
-.box{
-
-
-background-image: url(E:\Users\USER\Desktop\FCIT\405\A2\P2\files needed for  assignment2_Part2\bg.png);
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
+</style>
+</head>
+<body>
+
+<h2>Thumbnail Image as Link</h2>
+<p>Use the border property to create thumbnail images. Wrap an anchor around the image to use it as a link.</p>
+<p>Hover over the image and click on it to see the effect.</p>
+
+<a target="_blank" href="paris.jpg">
+  <img src="https://www.w3schools.com/css/paris.jpg" alt="Paris" style="width:150px">
+</a>
+
+</body>
+</html>
