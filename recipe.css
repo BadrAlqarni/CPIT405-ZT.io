@@ -27,6 +27,7 @@ font-family: italic ;
 h1{
 font-family: "Lucida Sans Unicode", Helvetica, Arial;
 color: #A4A400 ;
+font-weight:bold;
 font-size: 30pt; 
 text-decoration: underline;
 }
