@@ -1,1 +1,11 @@
+*{
+padding: 0;
+margin: 0;
+font-size:12pt;
+font-family: Arial;
+}
 
+.box-one {
+background-color: #1bd14c;
+border: 0 solid ;
+}
