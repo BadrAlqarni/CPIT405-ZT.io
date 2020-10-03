@@ -1,18 +1,9 @@
 
-ftitle{
+firsttitle{
 font-family: Arial;
 text-align: center;
 font-size: 20pt; 
 }
-.background {
-background:#F0F0F0 ;
-}
-.badypage{
-color: #A4A400 ;
-font-size: 13pt; 
-font-family: Georgia;
-}
-
 
 h4{
 color: #b5b5b5;
@@ -44,14 +35,11 @@ font-size: 13pt;
 font-family: Garamond;
 }
 
-.b{
-color:#A4A400 ;
-}
-.a{
+.y{
 color:blue ;
 text-align: right;
 font-family: monospace;
 }
-div .a{
+div .y{
 text-align: right;
 }
