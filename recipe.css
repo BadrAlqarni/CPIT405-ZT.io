@@ -1,48 +1,46 @@
-#ftitle{
-  font-family sans-serif;
- text-align center;
-  font-size 22pt; 
+
+ftitle{
+font-family: sans-serif;
+text-align: center;
+font-size: 22pt; 
 }
 .background {
- background#F0F0F0  ;
-  
+background:#F0F0F0 ;
 }
 .badypage{
- color #A4A400 ;
-   font-size 11pt; 
-   font-family Georgia, Garamond;
+color: #A4A400 ;
+font-size: 11pt; 
+font-family: Georgia, Garamond;
 }
 h1{
-  font-family Lucida Sans Unicode, Helvetica, Arial;
-  color #A4A400 ;
-  font-size 30pt; 
-  text-decoration underline;
+font-family: "Lucida Sans Unicode", Helvetica, Arial;
+color: #A4A400 ;
+font-size: 30pt; 
+text-decoration: underline;
 }
 em{
-font-weightbold;
+font-weight:bold;
 }
 h2{
-font-weightbold;
- font-size 18pt; 
+font-weight:bold;
+font-size: 18pt; 
 }
 .body{
-  color#404040 ;
-  font-size 11pt;
-  font-family Georgia, Garamond;
+color:#404040 ;
+font-size: 11pt;
+font-family: Georgia, Garamond;
 }
 h4{
-   font-family italic ;
-  
+font-family: italic ;
 }
-.links{
-  color#A4A400  ;
+.b{
+color:#A4A400 ;
 }
-
 .a{
- colorblue ;
-  text-align right;
-  font-family monospace;
+color:blue ;
+text-align: right;
+font-family: monospace;
 }
 div .a{
-   text-align right;
+text-align: right;
 }
