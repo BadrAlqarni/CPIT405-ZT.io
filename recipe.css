@@ -16,7 +16,11 @@ font-family: Georgia, Garamond;
 
 h4{
 color: #b5b5b5;
-font-size: 18pt; 
+font-size: 14pt; 
+}
+
+h3{
+font-family: italic ;
 }
 
 
@@ -38,9 +42,7 @@ color:#404040 ;
 font-size: 11pt;
 font-family: Georgia, Garamond;
 }
-h3{
-font-family: italic ;
-}
+
 
 
 
