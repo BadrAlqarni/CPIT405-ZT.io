@@ -12,6 +12,14 @@ color: #A4A400 ;
 font-size: 11pt; 
 font-family: Georgia, Garamond;
 }
+
+
+h4{
+color: #b5b5b5;
+font-size: 18pt; 
+}
+
+
 h1{
 font-family: "Lucida Sans Unicode", Helvetica, Arial;
 color: #A4A400 ;
@@ -35,10 +43,7 @@ font-family: italic ;
 }
 
 
-h4{
-color: #b5b5b5;
-font-size: 18pt; 
-}
+
 
 
 
